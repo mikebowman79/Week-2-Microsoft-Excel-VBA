@@ -1,5 +1,5 @@
 # Challenge2
-UNCC-Challenge 2
+Microsoft Excel VBA
 #** An Analysis of Refractor VBA Code and Measuring Performance**
 
 ## Overview of Project
